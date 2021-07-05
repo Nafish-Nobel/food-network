@@ -7,14 +7,18 @@ body{
 footer{
     text-align: center;
     background-color:rgb(11, 13, 23);
-    color: #d6d6d6cc;
+    color: white;
     height:150px;
 }
 h3 span{
     color: orange;
    
 }
+h5{
+    font-weight: lighter;
+}
 footer h3{
+    color:#5B5B5B;
     margin-top: 0px;
     padding-top: 20px
 }
