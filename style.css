@@ -3,17 +3,46 @@ body{
    margin: 0;
    padding: 0;
 }
+section{
+    display: flex;
+    margin-bottom: 100px;
+}
+.orange-color{
+    color: orange;  
+}
 
+h1{
+    font-size: 35px;
+    margin-top: 35%;
+    color:#575757;
+}
+
+.half-width{
+    margin-left: 5%;
+    padding-left:5%;
+}
+.half-width img{
+    width: 100%;
+    margin-top: 7%;
+}
+p{
+    color: #8a8787;
+}
+.anchor-button {
+    text-decoration: none;
+    background: linear-gradient(45deg, rgb(112, 129, 223), tomato);
+    padding: 10px 20px;
+    border-radius: 50px;
+    color: white;
+    font-weight: 700;
+}
 footer{
     text-align: center;
     background-color:rgb(11, 13, 23);
     color: white;
     height:150px;
 }
-h3 span{
-    color: orange;
-   
-}
+
 h5{
     font-weight: lighter;
 }
