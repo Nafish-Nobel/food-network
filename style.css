@@ -87,7 +87,7 @@ padding-top: 75px;
     font-weight: 800;
 }
 
-.info h2, .info p{
+.in-fo h2, .in-fo p{
     padding-bottom: 20px;
     text-align: center;
     width: 40%;
@@ -101,7 +101,7 @@ padding-top: 75px;
     height: auto;
 }
 
- .recipe .single p{
+ .recipe .div-main p{
       width: 100%;
       margin: 5px 0 20px 0;
       text-align: left;
