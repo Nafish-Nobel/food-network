@@ -1,17 +1,18 @@
-body .container{
+body .div-main{
     font-family: 'Poppins', sans-serif;
     width: 1140px;
     height: 100vh;
-    font-weight: 500;
-    line-height: 1.6
-    scroll-behavior: smooth;
     margin: auto;
-    display: flex;
-    justify-content: space-between;
     align-items: center;
+    display: flex;
+    scroll-behavior: smooth;
+    font-weight: 500;
+    line-height: 1.6;
+    justify-content: space-between;
+    
 }
 
-.left, .right{
+.div-in, .div-in-1{
     width: 45%;
 }
 img{
@@ -45,7 +46,7 @@ h3{
 }
 
 span{
-    color: orange;
+    color: orangered;
 }
 p{
     width: 80%;
