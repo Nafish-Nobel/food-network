@@ -121,6 +121,7 @@ padding-top: 75px;
     border-radius: 25px;
     justify-content: space-around;
     height: 200px;
+    align-items: center;
     
 }
 .statistics-box .box-2 #stat{
