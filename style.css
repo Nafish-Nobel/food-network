@@ -122,15 +122,15 @@ padding-top: 75px;
     justify-content: space-around;
     height: 200px;
     align-items: center;
-    margin-left: 9%;
+    margin-left: 8%;
     
 }
-.statistics-box {
+/* .statistics-box {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-}
+} */
 
 .statistics-box .box-2 #stat{
     width: 18.5%;
